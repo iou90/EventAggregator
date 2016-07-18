@@ -1,2 +1,2 @@
 # EventAggregator
-an event aggregator implemented with ReactiveExtension
+An event aggregator implemented with ReactiveExtension
